@@ -1,0 +1,80 @@
+#canvas{
+    height: 500px;
+    width: 900px;
+    float: left;
+    border-radius: 3px;
+    background-color: white;
+    border: 1px solid gray;
+}
+#container{
+    padding: 12px;
+}
+#container2{
+    float:left;
+}
+#container3{
+    float: left;
+    width: 400px;
+    height: 500px;
+    overflow: hidden;
+}
+#stats{
+    /*height: 50%;*/
+    padding-left: 6px;
+    /*border: 1px solid red;*/
+    font-family: "Courier New", sans-serif;
+    font-size: 14px;
+}
+
+#newsBanner{
+    margin: 0;
+    font-size: 22px;
+    font-weight: bold;
+}
+
+a{
+    color: black;
+}
+#btns{
+    margin: 6px;
+    float: right;
+    clear: both;
+}
+
+#pauseButton{
+    width: 100px;
+}
+#big{
+    margin-left: 6px;
+    border-bottom: 1px solid lightgray;
+}
+
+#news{
+    padding-left: 6px;
+    padding-bottom: 1px;
+    font-family: "Century Gothic", sans-serif;
+    display: none;
+}
+.tabContent{
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-radius: 2px;
+}
+
+#notifList{
+    list-style: none;
+    overflow: hidden;
+    max-height: 197px;
+    min-height: 197px;
+    margin: 0;
+    padding: 0;
+}
+#popChart{
+    height: 100%;
+    padding-left: 6px;
+    padding-top: 10px;
+}
+
+p{
+    float: left;
+}

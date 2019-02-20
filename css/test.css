@@ -1,0 +1,30 @@
+#news{
+    height: 300px;
+    width: 400px;
+    background-color: beige;
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-radius: 2px;
+}
+
+#charts{
+    display:none;
+    height: 300px;
+    width: 400px;
+    background-color: rgba(74,132,115,0.52);
+    border-bottom: 1px solid lightgray;
+    border-left: 1px solid lightgray;
+    border-right: 1px solid lightgray;
+    border-radius: 2px;
+}
+
+#big{
+    width:400px;
+    overflow: hidden;
+    margin: 12px;
+}
+
+.nav-link{
+    color: darkgray;
+}
